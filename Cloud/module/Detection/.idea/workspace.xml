@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bcf2706b-292e-406f-8895-9735b95ae41a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/2Dpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/2Dpoint_old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/3Dpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_1/bb_1_1/1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_1/bb_1_1/1_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_1/bb_1_1/1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_1/bb_1_1/1_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_1/bb_1_1/1_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_1/bb_1_1/1_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_1/bb_1_1/1_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_1/bb_1_1/1_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_1/bb_1_1/1_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_1/bb_1_1/1_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_1/bb_1_1/box.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_2/bb_2_1/2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_2/bb_2_1/2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_2/bb_2_1/2_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_2/bb_2_1/2_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_2/bb_2_1/2_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_2/bb_2_1/2_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_2/bb_2_1/2_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_2/bb_2_1/2_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_2/bb_2_1/2_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_2/bb_2_1/box.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_3/bb_3_1/3_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_3/bb_3_1/3_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_3/bb_3_1/3_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_3/bb_3_1/3_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_3/bb_3_1/3_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_3/bb_3_1/3_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_3/bb_3_1/3_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_3/bb_3_1/3_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_3/bb_3_1/3_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_3/bb_3_1/3_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_3/bb_3_1/3_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_3/bb_3_1/box.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_4/bb_4_1/4_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_4/bb_4_1/4_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_4/bb_4_1/4_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_4/bb_4_1/4_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_4/bb_4_1/4_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_4/bb_4_1/4_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_4/bb_4_1/4_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_4/bb_4_1/4_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_4/bb_4_1/4_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_4/bb_4_1/4_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_4/bb_4_1/4_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_4/bb_4_1/4_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/bb_4/bb_4_1/box.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/drone.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/2Dpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/3Dpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/bb_1/bb_1_1/1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/bb_1/bb_1_1/1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/bb_1/bb_1_1/1_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/bb_1/bb_1_1/1_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/bb_1/bb_1_1/1_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/bb_1/bb_1_1/box.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/bb_2/bb_2_1/2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/bb_2/bb_2_1/2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/bb_2/bb_2_1/2_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/bb_2/bb_2_1/2_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/bb_2/bb_2_1/2_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/bb_2/bb_2_1/box.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/new/drone.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/result1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/align_bb_0/old_file/result2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../对齐算法/alignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/../对齐算法/alignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../检测+多路融合识别/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../检测+多路融合识别/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object1/crop_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object1/crop_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object2/crop_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object2/crop_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object2/crop_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object2/crop_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object3/crop_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object3/crop_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object3/crop_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object3/crop_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object5/crop_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object5/crop_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object6/crop_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object6/crop_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object6/crop_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../检测+多路融合识别/test_result/object6/crop_1.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="22Pkoaok7XPo7PcdCRyr7mI2DIC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\学习\无人机目标检测复现\yolox-pytorch-main" />
+      <recent name="E:\学习\无人机目标检测复现\yolox-pytorch-main\model_data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Detector">
+    <configuration name="Detector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolox-pytorch-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_map" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolox-pytorch-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_map.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict - 副本" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolox-pytorch-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict - 副本.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolox-pytorch-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="voc_annotation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolox-pytorch-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/voc_annotation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Detector" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.get_map" />
+        <item itemvalue="Python.voc_annotation" />
+        <item itemvalue="Python.predict - 副本" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1676" height="466" key="DebuggerActiveHint" timestamp="1645964343258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1676" height="466" key="DebuggerActiveHint/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1645964343258" />
+    <state width="936" height="236" key="GridCell.Tab.0.bottom" timestamp="1646662197121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="294" key="GridCell.Tab.0.bottom/-1920.0.1536.824/0.0.1920.1040@0.0.1920.1040" timestamp="1641391600614" />
+    <state width="936" height="236" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1646662197121" />
+    <state width="936" height="236" key="GridCell.Tab.0.center" timestamp="1646662197121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="294" key="GridCell.Tab.0.center/-1920.0.1536.824/0.0.1920.1040@0.0.1920.1040" timestamp="1641391600614" />
+    <state width="936" height="236" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1646662197121" />
+    <state width="936" height="236" key="GridCell.Tab.0.left" timestamp="1646662197121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="294" key="GridCell.Tab.0.left/-1920.0.1536.824/0.0.1920.1040@0.0.1920.1040" timestamp="1641391600614" />
+    <state width="936" height="236" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1646662197121" />
+    <state width="936" height="236" key="GridCell.Tab.0.right" timestamp="1646662197121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="294" key="GridCell.Tab.0.right/-1920.0.1536.824/0.0.1920.1040@0.0.1920.1040" timestamp="1641391600614" />
+    <state width="936" height="236" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1646662197121" />
+    <state width="1899" height="261" key="GridCell.Tab.1.bottom" timestamp="1646152888498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="389" key="GridCell.Tab.1.bottom/-1920.0.1536.824/0.0.1920.1040@0.0.1920.1040" timestamp="1639880070920" />
+    <state width="1899" height="261" key="GridCell.Tab.1.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1646152888498" />
+    <state width="1899" height="261" key="GridCell.Tab.1.center" timestamp="1646152888498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="389" key="GridCell.Tab.1.center/-1920.0.1536.824/0.0.1920.1040@0.0.1920.1040" timestamp="1639880070920" />
+    <state width="1899" height="261" key="GridCell.Tab.1.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1646152888498" />
+    <state width="1899" height="261" key="GridCell.Tab.1.left" timestamp="1646152888498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="389" key="GridCell.Tab.1.left/-1920.0.1536.824/0.0.1920.1040@0.0.1920.1040" timestamp="1639880070920" />
+    <state width="1899" height="261" key="GridCell.Tab.1.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1646152888498" />
+    <state width="1899" height="261" key="GridCell.Tab.1.right" timestamp="1646152888498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="389" key="GridCell.Tab.1.right/-1920.0.1536.824/0.0.1920.1040@0.0.1920.1040" timestamp="1639880070920" />
+    <state width="1899" height="261" key="GridCell.Tab.1.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1646152888498" />
+    <state x="84" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1639923119450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="84" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1639923119450" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1639921919150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1639921919150" />
+    <state x="143" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1646633104658">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.824/0.0.1920.1040@0.0.1920.1040" timestamp="1639813404934" />
+    <state x="143" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1646633104658" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/predict.py</url>
+          <line>272</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/predict.py</url>
+          <line>174</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/utils_map.py</url>
+          <line>299</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/predict.py</url>
+          <line>169</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/predict.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

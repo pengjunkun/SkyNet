@@ -1,0 +1,9 @@
+使用步骤：
+1. 改变ipconfig中的id_ip, 使设备编号与ip地址对应
+2. 在不同的设备上, 改变recv.py倒数第二行的thisId, 将其改为本设备的编号,并运行recv.py
+    - python3 recv.py
+3. 在发送文件的设备上运行send.py, 命令行输入格式为: python3 send.py {targetId} {send_file_path} {dest_file_path} 
+    - targetId 目标主机的id
+    - send_file_path 发送文件的绝对路径地址
+    - dest_file_path 目的主机存放位置的绝对路径地址
+    - 注: 地址用'/'字符隔开
